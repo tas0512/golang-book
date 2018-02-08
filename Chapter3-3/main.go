@@ -1,6 +1,6 @@
 package main
 
-ipmort "fmt"
+import "fmt"
 
 func main() {
 	fmt.Println("====Floating Point====")
