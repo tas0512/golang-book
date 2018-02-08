@@ -15,3 +15,4 @@
 ## Chapter 4
 
 * chapter4-1 : Short/Long variable declaration and swapping value
+* chapter4-2 : Receive Input (Convert Farenheit to Celcius) wtih 2 decimal place
