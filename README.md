@@ -21,3 +21,8 @@
 
 * chapter4-1 : Short/Long variable declaration and swapping value
 * chapter4-2 : Receive Input (Convert Farenheit to Celcius) wtih 2 decimal place
+
+## Chapter 5
+
+* chapter5-1 : For loop condition
+* chapter5-2 : If condition (FizzBuzz)
