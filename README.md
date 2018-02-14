@@ -28,3 +28,11 @@
 * chapter5-2 : If condition (FizzBuzz)
 * chapter5-3 : Switch condition
 * chapter5-4 : Random Number (Exercise)
+
+## Chapter 6
+
+* chapter6-1 : basic return Function
+* chapter6-2 : basic return Function 2
+* chapter6-3 : Multiple return Function
+* chapter6-4 : Argument return Function
+* chapter6-5 : FizzBuzz Function (Exercise)
