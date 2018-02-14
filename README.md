@@ -36,3 +36,17 @@
 * chapter6-3 : Multiple return Function
 * chapter6-4 : Argument return Function
 * chapter6-5 : FizzBuzz Function (Exercise)
+
+## Chapter 7 - Collection
+
+* chapter7-1 : array
+* chapter7-2 : slice
+* chapter7-3 : print slice
+* chapter7-4 : copy slice
+* chapter7-5 : map
+* chapter7-6 : delete map
+* chapter7-7 : zero value
+* chapter7-8 : compare len vs range (loop)
+* chapter7-9 : Print Slice + for loop
+* chapter7-10 : print Map for loop (use Range)
+* chapter7-11 : print in Binary from String
