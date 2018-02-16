@@ -13,7 +13,8 @@ func weatherCelsius(number int, message string) {
 	slice := make([]string,16)
 	slice2 := make([]string,16)
 	slice3 := make([]string,16)
-	//slice4 := make([]string,6)
+
+	//firstDigit := number/10
 
 	if number == 25 {
 		//number 2 (first digit)
