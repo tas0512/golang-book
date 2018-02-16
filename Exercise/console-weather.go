@@ -41,6 +41,10 @@ func weatherCelsius(number int, message string) {
 	}
 
 	if number==34 {
-		fmt.Printf("_\n_|")
+		//display 3
+		fmt.Printf("_\n_|\n_|")
+
+		//display 4
+		fmt.Printf("|_|\n |")
 	}
 }
