@@ -53,4 +53,22 @@
 
 ## Chapter 8
 
-* chapter8-1 : oass by copy value
+* chapter8-1 : pass by copy value
+* chapter8-2 : pass by pointer
+* chapter8-3 : pass by array value
+* chapter8-4 : pass by array pointer
+* chapter8-5 : pass by slice value
+* chapter8-6 : pass by map
+
+## Chapter 9
+
+* chapter9-1 : Struct
+* chapter9-2 : valid bool()
+
+## Chapter 10
+
+* chapter10-1 : Method
+
+## Chapter 11
+
+* chapter11-1 : Interface
