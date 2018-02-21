@@ -50,3 +50,7 @@
 * chapter7-9 : Print Slice + for loop
 * chapter7-10 : print Map for loop (use Range)
 * chapter7-11 : print in Binary from String
+
+## Chapter 8
+
+* chapter8-1 : oass by copy value
