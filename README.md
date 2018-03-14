@@ -101,3 +101,10 @@
 * chapter13-18 : Pipeline#2 - close() avoid Deadlock
 * chapter13-19 : Pipeline#3
 * chapter13-20 : Timeout
+
+## Chapter 14
+
+* chapter14-5 : net/http
+* chapter14-6 : Gorrila/mux
+* chapter14-7 : net/http
+* chapter14-8 : net/http
